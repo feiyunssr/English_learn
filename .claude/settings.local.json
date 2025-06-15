@@ -1,0 +1,38 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(chmod:*)",
+      "Bash(java:*)",
+      "Bash(apt:*)",
+      "Bash(apt install:*)",
+      "Bash(sudo apt:*)",
+      "Bash(sudo apt install:*)",
+      "Bash(./create-apk-structure.sh:*)",
+      "Bash(tar:*)",
+      "Bash(echo:*)",
+      "Bash(export ANDROID_HOME=/opt/android-sdk)",
+      "Bash(export ANDROID_SDK_ROOT=$ANDROID_HOME)",
+      "Bash(export:*)",
+      "Bash(ls:*)",
+      "Bash(./gradlew:*)",
+      "Bash(wget:*)",
+      "Bash(sudo chown:*)",
+      "Bash(sudo chmod:*)",
+      "Bash(grep:*)",
+      "Bash(cp:*)",
+      "Bash(sudo:*)",
+      "Bash(unzip:*)",
+      "Bash(rm:*)",
+      "Bash(./build-release-apk.sh:*)",
+      "Bash(./create_placeholder_icons.sh:*)",
+      "Bash(aapt dump badging:*)",
+      "Bash(android-sdk/android-sdk/cmdline-tools/bin/aapt:*)",
+      "Bash(find:*)",
+      "Bash(rg:*)",
+      "Bash(python3:*)",
+      "Bash(kotlinc:*)"
+    ],
+    "deny": []
+  }
+}

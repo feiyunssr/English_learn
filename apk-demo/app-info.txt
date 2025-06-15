@@ -1,0 +1,19 @@
+应用名称: 智能英语学习助手
+包名: com.englishlearn
+版本: 1.0.0 (1)
+最小SDK: Android 7.0 (API 24)
+目标SDK: Android 14 (API 34)
+
+核心功能:
+- 文档导入和管理
+- 智能词典查询
+- AI翻译功能
+- 生词本管理
+- 学习进度跟踪
+
+技术栈:
+- Kotlin + Jetpack Compose
+- Room Database
+- Retrofit + OkHttp
+- Hilt依赖注入
+- Material Design 3

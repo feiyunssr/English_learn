@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/home/zero/English_learn/app"
+    name=":app"
+    type="APP"
+    maven="EnglishLearn:app:"
+    agpVersion="8.1.4"
+    buildFolder="build"
+    bootClassPath="/opt/android-sdk/platforms/android-34/android.jar:/opt/android-sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

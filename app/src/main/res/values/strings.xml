@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">智能英语学习助手</string>
+    <string name="home">首页</string>
+    <string name="documents">文档</string>
+    <string name="vocabulary">生词本</string>
+    <string name="settings">设置</string>
+    <string name="add_document">添加文档</string>
+    <string name="recent_reading">最近阅读</string>
+    <string name="learning_stats">学习统计</string>
+    <string name="today_reading">今日阅读</string>
+    <string name="new_words">新单词</string>
+    <string name="learned_documents">已学文档</string>
+    <string name="my_documents">我的文档</string>
+    <string name="vocabulary_book">生词本</string>
+    <string name="no_documents">还没有导入任何文档\n点击右下角的 + 按钮开始导入</string>
+    <string name="progress_completed">%d%% 完成</string>
+</resources>

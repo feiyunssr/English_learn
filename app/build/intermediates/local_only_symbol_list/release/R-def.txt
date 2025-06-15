@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color splashscreen_background
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string add_document
+string app_name
+string documents
+string home
+string learned_documents
+string learning_stats
+string my_documents
+string new_words
+string no_documents
+string progress_completed
+string recent_reading
+string settings
+string today_reading
+string vocabulary
+string vocabulary_book
+style Theme.EnglishLearn
+xml backup_rules
+xml data_extraction_rules

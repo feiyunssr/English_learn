@@ -1,0 +1,26 @@
+{
+  "appName": "智能英语学习助手",
+  "packageName": "com.englishlearn",
+  "version": "1.0.0",
+  "versionCode": 1,
+  "buildDate": "2024-01-15",
+  "minSdkVersion": 24,
+  "targetSdkVersion": 34,
+  "compileSdkVersion": 34,
+  "buildType": "release",
+  "signed": true,
+  "features": [
+    "文档导入管理",
+    "智能词典查询", 
+    "AI翻译功能",
+    "生词本管理",
+    "学习统计分析"
+  ],
+  "permissions": [
+    "android.permission.INTERNET",
+    "android.permission.READ_EXTERNAL_STORAGE",
+    "android.permission.WRITE_EXTERNAL_STORAGE",
+    "android.permission.CAMERA",
+    "android.permission.RECORD_AUDIO"
+  ]
+}
